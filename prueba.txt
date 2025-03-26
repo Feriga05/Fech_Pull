@@ -2,3 +2,4 @@ primera línea
 segunda línea
 tercera línea
 línea en local sin commit
+cuarta línea añadida en remoto
